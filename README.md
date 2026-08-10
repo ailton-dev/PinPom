@@ -159,11 +159,7 @@ gerenciador-senhas/
 | Ctrl+T | Alternar tema claro/escuro            |
 | F1     | Abrir a ajuda                         |
 
-## Personalizando o painel "Sobre"
 
-Os links do criador ficam em `src/main/java/gerenciador/util/CriadorLinks.java`.
-Edite os valores de `GITHUB`, `INSTAGRAM`, `EMAIL` e `REDDIT` para apontar para
-os seus perfis e recompile com `./build.sh`.
 
 ## Notas de segurança
 
