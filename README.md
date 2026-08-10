@@ -148,17 +148,18 @@ gerenciador-senhas/
 
 ## Atalhos de teclado
 
-| Atalho | Ação                                  |
-|        |                                       |
-| Ctrl+N | Nova entrada                          |
-| F2     | Editar entrada selecionada            |
-| Delete | Remover entrada selecionada           |
-| Ctrl+C | Copiar senha                          |
-| Ctrl+F | Focar na busca                        |
-| Ctrl+L | Bloquear (voltar para a senha mestre) |
-| Ctrl+T | Alternar tema claro/escuro            |
-| F1     | Abrir a ajuda                         |
-
+| Atalho   | Ação                                   |
+|----------|----------------------------------------|
+| Ctrl+N   | Nova entrada                           |
+| F2       | Editar entrada selecionada             |
+| Delete   | Remover entrada selecionada            |
+| Ctrl+C   | Copiar senha                           |
+| Ctrl+D   | Duplicar entrada selecionada           |
+| Ctrl+F   | Focar na busca                         |
+| Ctrl+,   | Configurações                          |
+| Ctrl+L   | Bloquear (voltar para a senha mestre)  |
+| Ctrl+T   | Alternar tema claro/escuro             |
+| F1       | Abrir a ajuda                          |
 
 
 ## Notas de segurança
